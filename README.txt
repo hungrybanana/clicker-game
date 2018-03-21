@@ -18,3 +18,5 @@ Unity Version 2017.3.1f1 Personal
 
 Author:
 hungrybanana
+
+LICENCE: MIT License
